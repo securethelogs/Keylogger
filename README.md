@@ -18,4 +18,4 @@ This will run in the background until the C:\temp\keylogger.txt file is moved or
 
 ## Credit
 This is a modfication of the script http://powershell.com/cs/blogs/tips/archive/2015/12/09/creating-simple-keylogger.aspx
-I basically took Start-keylogger and automated it so that it can be used remotely during a pentest. 
+, I basically took Start-keylogger and automated it so that it can be used remotely during a pentest. 
